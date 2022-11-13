@@ -1,2 +1,3 @@
-# Machine-Learning-Activities
-Compilation of ML activities 
+## ReadMe 
+
+<p> This repository s a compilation of Machine Learning Actvities in school. </p> 
