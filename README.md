@@ -1,3 +1,3 @@
-## ReadMe 
+## Decision Tree Regressor
 
-<p> This repository s a compilation of Machine Learning Actvities in school. </p> 
+<p> This branch contains the implementation of decision tree on regression problems using python </p> 
