@@ -1,4 +1,4 @@
-## ECLAT Algorithm <img src= "https://github.com/lhbsaldana/itelective3-web/blob/main/images/firestore%20logo.svg" width = "40px" />,
+## ECLAT Algorithm <img src= "https://github.com/lhbsaldana/Machine-Learning-Activities/blob/ECLAT-Algorithm/icons8-python-96.svg" width = "40px" />
 ### Equivalence Class Clustering and Bottom-up Lattice Traversal Algorithm (ECLAT)
 - ECLAT is one of the <strong><em> Association Rule Mining Algorithms</strong></em>
 - implemented with Python
