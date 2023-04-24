@@ -1,3 +1,3 @@
 ## ReadMe 
 
-<p> This repository s a compilation of Machine Learning Actvities in school. </p> 
+<p> This contains the projects completed throughout the course of my Data Science course</p> 
