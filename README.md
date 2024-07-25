@@ -16,13 +16,8 @@
 
 [PH Poverty Case Study (Time Series Analysis)](https://github.com/lhbsaldana/Data-Science-Projects/blob/main/PH%20Poverty%20Case%20Study%20(Time%20Series%20Analysis).ipynb) 
  <ul> 
-  <li> This project aims to answer three questions, namely: 
-    <ul> 
-<li> Was there a significant change in the magnitude of the poor population between 2006,2009,2012, and 2015?</li>
-<li> Was there a significant change in the magnitude of the subsistence poor population between 2006,2009,2012, and 2015? </li>
-<li> Is there a correlation between the magnitude of the poor population and the magnitude of the subsistence poor population? </li>
-    </ul>
- </li>
+  <li> Analyzed changes in the poor and subsistence poor populations in the Philippines between 2006 and 2015.  </li>
+<li> Examined significant shifts in population magnitudes over the years and investigated the correlation between the poor and subsistence poor populations. </li>
  </ul>
 
  [Market Basket Analysis](https://github.com/lhbsaldana/Data-Science-Projects/blob/main/Market_Basket%20%20Analysis%20.ipynb)
@@ -47,7 +42,7 @@
 </li> 
    </ul>
 
-  [Natural Language Processing - Tweets Sentiment Analysis](https://github.com/lhbsaldana/Data-Science-Projects/blob/main/NLP%20-%20Twitter%20Data.ipynb) 
+  [Analysis of Kpop Tweets (Natural Language Processing)](https://github.com/lhbsaldana/Data-Science-Projects/blob/main/NLP%20-%20Twitter%20Data.ipynb) 
 <ul>
 <li>Conducted an in-depth analysis of tweets related to the Kpop girl group Le Sserafim and their company Hybe. Utilized Exploratory Data Analysis (EDA) to identify frequently used words and performed sentiment analysis using the VADER algorithm to classify tweets into positive, neutral, and negative categories. Employed Latent Dirichlet Allocation (LDA) for topic modeling to uncover key themes, such as the popularity of Le Sserafim, Hybe's protection of artists, song promotion, and bullying allegations. The study provided insights into public sentiment and thematic discussions around the group and its members. </li>
 </ul>
