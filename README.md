@@ -46,6 +46,8 @@
     </ul>
 </li> 
    </ul>
- 
+
+
+<li>Conducted an in-depth analysis of tweets related to the Kpop girl group Le Sserafim and their company Hybe. Utilized Exploratory Data Analysis (EDA) to identify frequently used words and performed sentiment analysis using the VADER algorithm to classify tweets into positive, neutral, and negative categories. Employed Latent Dirichlet Allocation (LDA) for topic modeling to uncover key themes, such as the popularity of Le Sserafim, Hybe's protection of artists, song promotion, and bullying allegations. The study provided insights into public sentiment and thematic discussions around the group and its members. </li>
 
 
